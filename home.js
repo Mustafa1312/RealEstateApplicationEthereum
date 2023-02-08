@@ -1,4 +1,4 @@
-const NFTaddress = '0x1861b73B1a05B5700F3472b3Fc1811F058Df149C'
+const NFTaddress = '0x61f1A30F34DF911eC4DfACf19A6cc7e22A59EAF6'
 const NFTabi = [
 {
 	"inputs": [],
@@ -455,7 +455,7 @@ const NFTabi = [
 	"type": "function"
 }
 ]
-const CONTRACTaddress = '0xca13AE31cd4f0cE082a0b52Be84b3e696C8d5b99';
+const CONTRACTaddress = '0xdD89eF5D9130C0B6Fb4780A285F2aF0fb1CD66Eb';
 const CONTRACTabi = [
 {
 	"inputs": [
